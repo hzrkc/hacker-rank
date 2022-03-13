@@ -1,2 +1,2 @@
 # hacker-rank
-My submissions in hackerrank.com
+My submissions on hackerrank.com
